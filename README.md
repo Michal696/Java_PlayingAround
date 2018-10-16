@@ -1,2 +1,2 @@
-# Java_FirstProject
-FirstProject in Java
+# Java_PlayingAround
+Java
